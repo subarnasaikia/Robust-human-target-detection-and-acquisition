@@ -1,1 +1,1 @@
-# Robust-human-target-detection-and-acquisition
+# Robust human target detection and acquisition
